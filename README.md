@@ -79,10 +79,10 @@ print(df.head())
 | lp.money         | available | $19.99    | —             | 66             | 34     | 3      | name.com        |
 | fresh.money      | resell    | —         | —             | 78             | 99     | 5      | Porkbun LLC     |
 | retail.money     | premium   | $123.75   | —             | 74             | 33     | 6      | name.com        |
-| lovely.money     | available | $19.99    | $50.99        | 72             | 32     | 6      | name.com        |
+| concrete.money   | available | $38.98    | —             | 102            | 32     | 8      | namecheap       |
 | smart.money      | resell    | —         | —             | 74             | 99     | 5      | Virtualia LLC   |
 | consulting.money | premium   | $128.70   | $128.70       | 72             | 30     | 10     | namecheap       |
-| concrete.money   | available | $38.98    | —             | 102            | 31     | 8      | namecheap       |
+| lovely.money     | available | $19.99    | $50.99        | 72             | 32     | 6      | name.com        |
 | select.money     | resell    | —         | —             | 74             | 99     | 6      | Dynadot Inc     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
