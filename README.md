@@ -1,22 +1,22 @@
-# Available .MONEY One-Word Domains (8,181)
+# Available .MONEY One-Word Domains (10,551)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C180%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C181%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C551%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .money one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,180-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,181 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,551 domains** on the canonical page below.
 
-**Public extract:** 8,180 rows · **Live catalog:** 8,181 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,551 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/money`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MONEY one-word domain
 
 ### Files
 
-- `money.csv` — public CSV extract (8,180 rows)
-- `money.json` — public JSON extract (8,180 rows)
+- `money.csv` — public CSV extract (1,000 rows)
+- `money.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| done.money       | available | $19.99    | $50.99        | 80             | 36     | 4      | name.com        |
-| fabric.money     | resell    | $19.99    | —             | 76             | 34     | 6      | Dynadot Inc     |
-| car.money        | premium   | $1,040    | $1,040        | 94             | 46     | 3      | namecheap       |
-| resume.money     | available | $19.99    | $50.99        | 98             | 35     | 6      | name.com        |
-| flight.money     | resell    | $38.98    | —             | 112            | 30     | 6      | NameCheap, Inc. |
-| quick.money      | premium   | $1,000    | $1,000        | 72             | 41     | 5      | name.com        |
-| aaron.money      | available | $38.98    | —             | 88             | 35     | 5      | namecheap       |
-| theory.money     | resell    | $38.98    | —             | 82             | 25     | 6      | Spaceship, Inc. |
-| research.money   | premium   | $128.70   | $128.70       | 92             | 39     | 8      | namecheap       |
-| potato.money     | available | $19.99    | —             | 76             | 35     | 6      | name.com        |
-| fair.money       | resell    | —         | —             | 106            | 99     | 4      | Spaceship, Inc. |
-| total.money      | premium   | $250      | $250          | 108            | 38     | 5      | name.com        |
-| lp.money         | available | $19.99    | —             | 66             | 34     | 3      | name.com        |
-| fresh.money      | resell    | —         | —             | 78             | 99     | 5      | Porkbun LLC     |
-| retail.money     | premium   | $123.75   | —             | 74             | 33     | 6      | name.com        |
-| concrete.money   | available | $38.98    | —             | 102            | 32     | 8      | namecheap       |
-| smart.money      | resell    | —         | —             | 74             | 99     | 5      | Virtualia LLC   |
-| consulting.money | premium   | $128.70   | $128.70       | 72             | 30     | 10     | namecheap       |
-| lovely.money     | available | $19.99    | $50.99        | 72             | 32     | 6      | name.com        |
-| select.money     | resell    | —         | —             | 74             | 99     | 6      | Dynadot Inc     |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| stories.money      | available | $19.99    | —             | 58             | 36     | 7      | name.com          |
+| think.money        | resell    | —         | —             | 82             | 63     | 5      | Porkbun LLC       |
+| makers.money       | premium   | $38.94    | $38.94        | 62             | 67     | 6      | namesilo          |
+| etc.money          | available | $19.99    | —             | 58             | 34     | 3      | name.com          |
+| Tools.money        | resell    | —         | —             | 56             | 40     | 5      | Sav.com, LLC - 46 |
+| online.money       | premium   | $1,000    | —             | 70             | 62     | 7      | name.com          |
+| inspiration.money  | available | $19.99    | —             | 88             | 30     | 11     | name.com          |
+| construction.money | resell    | —         | —             | 70             | 31     | 12     | Sav.com, LLC - 47 |
+| partners.money     | premium   | $123.75   | —             | 61             | 32     | 8      | name.com          |
+| quotes.money       | available | $19.99    | —             | 58             | 29     | 6      | name.com          |
+| Jim.money          | resell    | —         | —             | 78             | 28     | 3      | NameCheap, Inc.   |
+| schools.money      | premium   | $250      | —             | 72             | 24     | 7      | name.com          |
+| commonground.money | available | $19.99    | —             | 74             | 28     | 13     | name.com          |
+| girls.money        | resell    | —         | —             | 83             | 23     | 5      | Dynadot Inc       |
+| blogs.money        | premium   | $118.80   | $118.80       | 52             | 21     | 5      | namesilo          |
+| doctors.money      | available | $19.99    | —             | 56             | 26     | 7      | name.com          |
+| makeit.money       | resell    | —         | —             | 82             | 22     | 7      | Name.com, Inc.    |
+| citizens.money     | premium   | $46.20    | $46.20        | 60             | 19     | 8      | namecheap         |
+| sites.money        | available | $19.99    | —             | 53             | 26     | 5      | name.com          |
+| smartphone.money   | resell    | —         | —             | 78             | 17     | 10     | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,180-row public sample | 8,181 live domains                               |
+| 1,000-row public sample | 10,551 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MONEY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MONEY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
