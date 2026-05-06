@@ -119,6 +119,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0b0baad9-ab32-42ac-b027-c7fd7fe1afbd,survived.money,available,19.99,,54,5,8,name.com,,
 0b11765d-0f6f-4ba2-9e7c-3aefcc99eb84,thinks.money,available,19.99,,64,10,6,name.com,,
 0b1eae4b-3a57-4ecc-be15-3fd3726d6729,sedated.money,available,19.99,,43,2,7,name.com,,
+0b68cd3e-2146-41c6-b3d9-9f2658fb6f2c,forever.money,resell,,,76,40,7,"GoDaddy.com, LLC",07/12/2018 09:30,07/12/2026 09:30
 0b963b87-036d-433c-8607-9a4776aee925,learns.money,available,19.99,,60,8,6,name.com,,
 0b9b7c56-d625-4088-91d1-e37b82e4cdf2,comeondown.money,available,19.99,,76,1,12,name.com,,
 0bb5b639-cbf1-4f7a-b537-084e84a0fc35,onfile.money,available,19.99,,48,4,7,name.com,,
@@ -228,6 +229,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 17364728-aa0e-42b6-8cd4-fae4b26e67ae,excitingness.money,available,19.99,,68,1,12,name.com,,
 1757d20f-a878-477d-af8f-09a0c28e8136,chiefmagistrate.money,available,19.99,,42,1,16,name.com,,
 17640b24-66f3-4f5a-9245-e0fa114fc2f0,steroids.money,available,19.99,,50,10,8,name.com,,
+176df4b2-469d-4d1e-9bd3-0eadc25b2c3d,talkabout.money,resell,,,82,10,10,"NameCheap, Inc.",31/05/2023 11:33,31/05/2027 11:33
 1787b887-99c7-4cb4-bc02-9eae62c6b6c0,likeashot.money,available,19.99,,56,1,11,name.com,,
 1789b1cf-9440-4ab0-85c3-a43bf87ae846,seekfor.money,available,19.99,,74,2,8,name.com,,
 179b97bb-c94c-4fdb-8474-91317517912b,hears.money,available,19.99,,48,4,5,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c80b752-6491-42bc-93ec-a74970d0bd11,uncared.money,available,19.99,,57,1,7,name.com,,
 5ca35910-e5f5-4ed9-ac02-4956b0fccc7d,getsick.money,available,19.99,,72,1,8,name.com,,
 5ca36e11-8524-4859-913b-007dc1392894,scissored.money,available,19.99,,64,1,9,name.com,,
-5cf20cd8-f3c3-4f67-bbaa-ed692663b655,wastes.money,available,19.99,,50,4,6,name.com,,
-5d1e5400-a2ab-43cb-a4cc-0a1ac4fe71d8,nutrients.money,available,19.99,,58,9,9,name.com,,
