@@ -65,25 +65,25 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | stories.money      | available | $19.99    | —             | 58             | 36     | 7      | name.com          |
-| think.money        | resell    | —         | —             | 82             | 63     | 5      | Porkbun LLC       |
+| forever.money      | resell    | —         | —             | 76             | 40     | 7      | GoDaddy.com, LLC  |
 | makers.money       | premium   | $38.94    | $38.94        | 62             | 67     | 6      | namesilo          |
 | etc.money          | available | $19.99    | —             | 58             | 34     | 3      | name.com          |
-| forever.money      | resell    | —         | —             | 76             | 40     | 7      | GoDaddy.com, LLC  |
+| Tools.money        | resell    | —         | —             | 56             | 40     | 5      | Sav.com, LLC - 46 |
 | online.money       | premium   | $1,000    | —             | 70             | 62     | 7      | name.com          |
 | inspiration.money  | available | $19.99    | —             | 88             | 30     | 11     | name.com          |
-| Tools.money        | resell    | —         | —             | 56             | 40     | 5      | Sav.com, LLC - 46 |
+| construction.money | resell    | —         | —             | 70             | 31     | 12     | Sav.com, LLC - 47 |
 | partners.money     | premium   | $123.75   | —             | 61             | 32     | 8      | name.com          |
 | quotes.money       | available | $19.99    | —             | 58             | 29     | 6      | name.com          |
-| construction.money | resell    | —         | —             | 70             | 31     | 12     | Sav.com, LLC - 47 |
+| Jim.money          | resell    | —         | —             | 78             | 28     | 3      | NameCheap, Inc.   |
 | schools.money      | premium   | $250      | —             | 72             | 24     | 7      | name.com          |
 | doctors.money      | available | $19.99    | —             | 56             | 26     | 7      | name.com          |
-| Jim.money          | resell    | —         | —             | 78             | 28     | 3      | NameCheap, Inc.   |
+| girls.money        | resell    | —         | —             | 83             | 23     | 5      | Dynadot Inc       |
 | affiliates.money   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo          |
 | sites.money        | available | $19.99    | —             | 53             | 26     | 5      | name.com          |
-| girls.money        | resell    | —         | —             | 83             | 23     | 5      | Dynadot Inc       |
+| makeit.money       | resell    | —         | —             | 82             | 22     | 7      | Name.com, Inc.    |
 | blogs.money        | premium   | $118.80   | $118.80       | 52             | 21     | 5      | namesilo          |
 | destination.money  | available | $19.99    | —             | 90             | 25     | 11     | name.com          |
-| makeit.money       | resell    | —         | —             | 82             | 22     | 7      | Name.com, Inc.    |
+| smartphone.money   | resell    | —         | —             | 78             | 17     | 10     | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

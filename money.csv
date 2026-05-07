@@ -51,6 +51,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 055628ae-6938-401b-baed-754bc0d17fe2,aswespeak.money,available,19.99,,58,2,11,name.com,,
 056414c4-ba2e-4bd3-bb6e-f16fb7ac72ee,aboutfaced.money,available,19.99,,48,1,11,name.com,,
 057b84a4-2495-44f3-9582-a1dd6a300ac1,likeitorleaveit.money,available,19.99,,44,2,19,name.com,,
+0589d32d-3498-4c93-9696-db65f0899ca5,oyster.money,premium,,,63,23,6,,,
 05978307-9dad-45f6-9d57-5c4b47ba5e4f,onejoke.money,available,19.99,,70,1,8,name.com,,
 05ab1914-fd04-4fb4-b1cb-bfeab8fc3463,requisitions.money,available,19.99,,54,1,12,name.com,,
 05abf9bd-2edc-464b-9931-07a7099d3dcc,excitements.money,available,19.99,,50,1,11,name.com,,
@@ -165,7 +166,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1095898c-38cd-4ffd-884e-ce7232676479,wagons.money,available,19.99,,52,4,6,name.com,,
 1096c358-d072-45ef-aad3-43a7289c9b7e,turnorburn.money,available,19.99,,56,1,12,name.com,,
 10d62432-ec49-4132-a827-90f85f253093,OrangeCounty.money,available,38.98,,66,11,13,namecheap,,
-111e5f2f-054e-4c73-8a38-4f0f96c6c012,think.money,resell,,,82,63,5,Porkbun LLC,27/05/2016 09:51,27/05/2026 09:51
 112dc9fb-2e39-47a9-a7b8-ebac8a6fdbb0,GreatBarrierReef.money,available,38.98,,64,4,18,namecheap,,
 113f60f8-fb99-459d-a572-a7a2af078cea,blewagasket.money,available,19.99,,34,1,13,name.com,,
 114f9119-39a7-41f6-80ee-4c033dad70b4,alcoholusedisorder.money,available,19.99,,48,1,20,name.com,,
