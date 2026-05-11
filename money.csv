@@ -927,7 +927,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54e8cafb-136d-46ab-a3bd-bc9edbbe4cd6,finalfrontier.money,available,19.99,,76,7,14,name.com,,
 551cce40-7be9-4004-9013-387042029a13,mostoften.money,available,19.99,,56,0,10,name.com,,
 551da4c1-782f-42eb-8230-82256e6d9e26,references.money,available,19.99,,58,9,10,name.com,,
-55240eac-253e-44ca-a527-afc7e8dbf3be,smartphone.money,resell,,,78,17,10,Dynadot Inc,09/02/2026 17:00,09/02/2027 17:00
+55240eac-253e-44ca-a527-afc7e8dbf3be,smartphone.money,resell,,,78,18,10,Dynadot Inc,09/02/2026 17:00,09/02/2027 17:00
 552f60bc-d6de-40b4-971e-8353a1a27fcb,shoveover.money,available,19.99,,59,1,10,name.com,,
 554959a8-80dc-46e5-a090-ff2a70f80842,conductcode.money,available,19.99,,50,1,12,name.com,,
 5570c6b3-364a-47ee-acc7-c6464c4f7326,biases.money,available,19.99,,42,3,6,name.com,,
