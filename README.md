@@ -67,13 +67,13 @@ print(df.head())
 | stories.money      | available | $19.99    | —             | 58             | 36     | 7      | name.com          |
 | forever.money      | resell    | —         | —             | 76             | 40     | 7      | GoDaddy.com, LLC  |
 | makers.money       | premium   | $38.94    | $38.94        | 62             | 67     | 6      | namesilo          |
-| etc.money          | available | $19.99    | —             | 58             | 34     | 3      | name.com          |
+| etc.money          | available | $19.99    | —             | 58             | 32     | 3      | name.com          |
 | Tools.money        | resell    | —         | —             | 56             | 40     | 5      | Sav.com, LLC - 46 |
 | online.money       | premium   | $1,000    | —             | 70             | 62     | 7      | name.com          |
-| inspiration.money  | available | $19.99    | —             | 88             | 30     | 11     | name.com          |
-| construction.money | resell    | —         | —             | 70             | 31     | 12     | Sav.com, LLC - 47 |
-| partners.money     | premium   | $123.75   | —             | 61             | 32     | 8      | name.com          |
 | quotes.money       | available | $19.99    | —             | 58             | 29     | 6      | name.com          |
+| construction.money | resell    | —         | —             | 70             | 31     | 12     | Sav.com, LLC - 47 |
+| partners.money     | premium   | $123.75   | —             | 61             | 31     | 8      | name.com          |
+| inspiration.money  | available | $19.99    | —             | 88             | 27     | 11     | name.com          |
 | Jim.money          | resell    | —         | —             | 78             | 28     | 3      | NameCheap, Inc.   |
 | schools.money      | premium   | $250      | —             | 72             | 24     | 7      | name.com          |
 | doctors.money      | available | $19.99    | —             | 56             | 26     | 7      | name.com          |
