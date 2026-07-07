@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .money one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,026 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,026 domains · **Median ask:** $24.17 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,026 domains · **Median ask:** $23.90 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/money`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/money`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MONEY one-word domain
 
 ### Files
 
-- `money.csv` — public CSV extract (1,000 rows)
-- `money.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `money.csv`, public CSV extract (1,000 rows)
+- `money.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| stories.money      | available | $19.99    | —             | 58             | 36     | 7      | name.com          |
-| forever.money      | resell    | —         | —             | 76             | 40     | 7      | GoDaddy.com, LLC  |
-| makers.money       | premium   | $38.94    | $38.94        | 62             | 67     | 6      | namesilo          |
-| etc.money          | available | $19.99    | —             | 58             | 32     | 3      | name.com          |
-| Tools.money        | resell    | —         | —             | 56             | 40     | 5      | Sav.com, LLC - 46 |
-| online.money       | premium   | $1,000    | —             | 70             | 62     | 7      | name.com          |
-| quotes.money       | available | $19.99    | —             | 58             | 29     | 6      | name.com          |
-| construction.money | resell    | —         | —             | 70             | 31     | 12     | Sav.com, LLC - 47 |
-| partners.money     | premium   | $123.75   | —             | 61             | 31     | 8      | name.com          |
-| inspiration.money  | available | $19.99    | —             | 88             | 27     | 11     | name.com          |
-| Jim.money          | resell    | —         | —             | 78             | 28     | 3      | NameCheap, Inc.   |
-| schools.money      | premium   | $250      | —             | 72             | 24     | 7      | name.com          |
-| doctors.money      | available | $19.99    | —             | 56             | 26     | 7      | name.com          |
-| girls.money        | resell    | —         | —             | 83             | 23     | 5      | Dynadot Inc       |
-| LongIsland.money   | premium   | $123.75   | —             | 62             | 22     | 11     | name.com          |
-| sites.money        | available | $19.99    | —             | 53             | 26     | 5      | name.com          |
-| makeit.money       | resell    | —         | —             | 82             | 21     | 7      | Name.com, Inc.    |
-| affiliates.money   | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo          |
-| destination.money  | available | $19.99    | —             | 90             | 24     | 11     | name.com          |
-| smartphone.money   | resell    | —         | —             | 78             | 18     | 10     | Dynadot Inc       |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| beauty.money | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC                                              |
+| fancy.money  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
+| wrong.money  | available | $19.99    | —             | high           | low    | 5      | name.com                                                  |
+| ate.money    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| fabric.money | resell    | $19.99    | —             | high           | low    | 6      | Dynadot Inc                                               |
+| mall.money   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                  |
+| bra.money    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| art.money    | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| Codes.money  | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo                                                  |
+| con.money    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| beg.money    | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                                           |
+| state.money  | premium   | $242      | $242          | high           | medium | 5      | namesilo                                                  |
+| end.money    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| box.money    | resell    | —         | —             | medium         | high   | 3      | Spaceship, Inc.                                           |
+| arabic.money | premium   | $123.75   | —             | high           | low    | 6      | name.com                                                  |
+| feb.money    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| did.money    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                              |
+| europe.money | premium   | $242      | $242          | medium         | low    | 6      | namesilo                                                  |
+| ike.money    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| fig.money    | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .money domains. The set spans literal terms, broad dictionary words, and more unusual picks such as display.money, cricket.money, conspiracy.money, and black.money. For founders, the main question is whether the word stays clear, memorable, and credible when paired with .money. For investors, the focus is whether the ask leaves room for a reasonable spread and whether the term has enough commercial relevance to support resale interest. With a median ask of 24.14, price discipline matters less than picking words that feel natural, specific, and easy to understand in this extension.
+This list gathers one-word .money domain names — short, dictionary-based names like half.money, correct.money, great.money, and beauty.money. With 11,026 names in the set and a median ask near $24, the .money extension offers a large, low-cost pool of ownable names tied to a finance-adjacent keyword. Founders can find memorable, single-word options to anchor a brand; investors can scan a wide selection for pricing patterns and renewal economics before committing.
 
-- Check whether the word naturally fits a finance-oriented extension
-- Favor clear dictionary words over awkward or confusing pairings
-- Use median ask 24.14 as a baseline for pricing discipline
-- Watch for words with trademark or reputation risk before buying
+- 11,026 one-word .money domain names in this set
+- Median asking price near $24 across the list
+- Dictionary words like half, correct, great, beauty
+- Updated daily for fresh availability and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MONEY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MONEY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
