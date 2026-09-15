@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .money one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,039 domains · **Median ask:** $16.96 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/tld/money`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| beauty.money | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC                                              |
 | abo.money    | available | $11.98    | $38.98        | low            | low    | 3      | namecheap                                                 |
 | fabric.money | resell    | $19.99    | —             | medium         | low    | 6      | Dynadot Inc                                               |
 | mall.money   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                  |
@@ -83,7 +84,6 @@ print(df.head())
 | fig.money    | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                              |
 | oregon.money | premium   | $118.80   | $118.80       | medium         | low    | 6      | namesilo                                                  |
 | ike.money    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| pal.money    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MONEY One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MONEY One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
