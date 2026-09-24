@@ -33,7 +33,7 @@ d5b58f23-157a-4636-9dfb-7c2db54d0a7d,cognisant.money,available,11.98,38.98,low,l
 b4654916-30a7-442b-98cb-2669c716b81c,wikileaks.money,available,19.99,,low,low,9,name.com,,,
 4164f32d-8005-43f3-8fc9-009856d8975a,retiring.money,available,19.99,,high,low,8,name.com,,,
 ab6d9043-58a0-412a-95a6-f715d6db0ec4,hardy.money,available,11.98,38.98,low,low,5,namecheap,,,22/09/2026 12:21
-590c798a-3eb3-4781-9c94-eaa18aab6523,advertising.money,premium,118.8,118.8,medium,low,11,namesilo,,,19/09/2026 09:14
+590c798a-3eb3-4781-9c94-eaa18aab6523,advertising.money,premium,118.8,118.8,medium,low,11,namesilo,,,23/09/2026 07:26
 97d4ee0f-1443-48d8-bdb4-b2a0f517e34f,heptad.money,available,11.98,38.98,low,low,6,namecheap,,,
 183498a7-6aee-4a08-b84c-832b08d7a234,eighteen.money,available,11.98,38.98,medium,low,8,namecheap,,,21/09/2026 11:58
 f1e6a078-8c67-4865-a3e0-5b13db090c65,dice.money,resell,,,medium,low,4,Dynadot Inc,27/10/2024 17:00,27/10/2026 17:00,
@@ -53,7 +53,7 @@ a4c27784-407a-405a-9b41-3dd9df1183b8,scratchy.money,available,11.98,38.98,low,lo
 263bac6c-29e7-499e-9481-3ea22dff9a2e,acts.money,available,19.99,,medium,low,4,name.com,,,
 5f70cae4-2a2c-491e-a7fb-beda8a1348c9,iwishimaybeshot.money,available,19.99,,medium,low,20,name.com,,,
 c3f72577-351a-43d3-a5e4-3735d1a03b5b,athenian.money,available,11.98,38.98,low,low,8,namecheap,,,07/08/2026 13:08
-a31a4405-8548-44e5-a0b2-488ef6182e22,finale.money,available,19.99,,high,low,6,name.com,,,
+a31a4405-8548-44e5-a0b2-488ef6182e22,finale.money,available,16.99,35.99,medium,low,6,namesilo,,,23/09/2026 14:46
 d14fbb88-2625-4de8-b356-839c07e0c3ed,shoulders.money,available,19.99,,low,low,9,name.com,,,
 9ba3f73d-fc79-4d54-bab1-e06fd0e7c463,newfound.money,available,11.98,38.98,low,low,9,namecheap,,,08/09/2026 04:48
 118715fe-05af-4194-a262-8d16d7dbf7d9,goout.money,available,19.99,,high,low,6,name.com,,,
@@ -78,7 +78,7 @@ b7258c08-87af-4ece-854d-c809c122b1fc,freshasarose.money,available,19.99,,medium,
 a678a215-1a65-442e-a94b-b199d602cd94,reader.money,available,19.99,,high,low,6,name.com,,,
 5239c472-e772-4142-a7b0-cd614bd3539b,series.money,available,11.98,38.98,medium,low,6,namecheap,,,19/09/2026 17:55
 71b0b1bd-0a78-4925-98ce-9121c9fb12d7,bars.money,available,19.99,,high,low,4,name.com,,,
-a0b924ed-ca3d-43da-976f-56bc5864c9b6,composed.money,available,19.99,50.99,high,low,8,name.com,,,
+a0b924ed-ca3d-43da-976f-56bc5864c9b6,composed.money,available,11.98,38.98,medium,low,8,namecheap,,,23/09/2026 17:50
 83878fff-858e-4f1c-82fa-52a1593b7ed8,rod.money,available,19.99,,medium,low,3,name.com,,,
 d0f628e8-d281-4b60-afea-77efb27fa3f5,ttyl.money,available,19.99,,low,low,4,name.com,,,
 d98542d8-7d40-40e9-b5d1-4c3f81cf4ce1,wheelabout.money,available,19.99,,low,low,11,name.com,,,
@@ -113,7 +113,7 @@ c2374f27-a43f-4a65-9e5e-c9c2fffb0b2f,machinescrew.money,available,19.99,,high,lo
 38897dd7-3da2-419c-a361-65b5fb8ad065,intrinsic.money,available,19.99,,high,low,9,name.com,,,
 6d0f4339-61bd-4af8-93c3-06682e1dbd5c,babies.money,available,19.99,,medium,low,6,name.com,,,
 b5a66838-5c24-4d83-9500-f936ac9766d2,cheerfully.money,available,19.99,,high,low,10,name.com,,,
-c322be05-ab8c-4fcc-b536-1501131d886a,start.money,resell,,,high,medium,5,Dynadot Inc,04/09/2025 17:00,04/09/2026 17:00,
+c322be05-ab8c-4fcc-b536-1501131d886a,start.money,resell,,,high,medium,5,Dynadot Inc,04/09/2025 17:00,04/09/2027 17:00,24/09/2026 03:07
 7349d504-0eca-4c93-af5f-187597d5ad52,bloodflow.money,available,19.99,,high,low,10,name.com,,,
 cd83ae7a-ec40-4185-8dd2-42099559f578,boxoffice.money,available,19.99,,high,low,10,name.com,,,
 bf504d3d-5128-44b9-9f7f-dcd426272ad8,promoter.money,available,19.99,,high,low,8,name.com,,,
@@ -127,13 +127,13 @@ a906e794-995a-4894-84ce-e05c39d5f863,childsupport.money,available,19.99,,medium,
 a9ad5764-82a0-4f2f-9de0-6b1784b7f045,irritation.money,available,11.98,38.98,low,low,10,namecheap,,,
 acb83cab-07e1-49a6-b3ab-c2f8977139e2,confused.money,available,11.98,38.98,low,low,8,namecheap,,,07/08/2026 12:02
 4d56ba38-8bac-4ca5-9e13-568a2db1f935,farther.money,available,19.99,,high,low,7,name.com,,,
-0d141f65-7161-45e8-8ca4-2d43f9698cef,drawn.money,available,19.99,,medium,low,5,name.com,,,
+0d141f65-7161-45e8-8ca4-2d43f9698cef,drawn.money,available,16.99,35.99,low,low,5,namesilo,,,23/09/2026 12:57
 7f3dad4b-fb08-4ada-b7b3-9e1b68687435,calculation.money,available,19.99,,medium,low,11,name.com,,,
 71f191c2-7718-48a1-aceb-a0c1eca8dcbb,kooky.money,available,11.98,38.98,low,low,5,namecheap,,,06/08/2026 21:04
 9528acc9-b6b3-45d1-a81f-05d613b867da,sunrise.money,resell,,,high,low,7,"Sav.com, LLC - 7",17/10/2025 15:15,17/10/2026 15:15,
 a3a698bb-fa1d-44a1-9576-2000bd361492,ideas.money,resell,,,medium,low,5,"Spaceship, Inc.",02/05/2019 06:24,02/05/2027 06:24,
 c3d61cfd-71a4-4e42-adc1-81cc54c80e10,bought.money,available,19.99,,high,low,6,name.com,,,
-e2db6640-1a78-4dbf-8562-e5dc4cbfc123,confirming.money,available,19.99,50.99,high,low,10,name.com,,,
+e2db6640-1a78-4dbf-8562-e5dc4cbfc123,confirming.money,available,16.99,35.99,medium,low,10,namesilo,,,23/09/2026 19:45
 0eee0af2-e4db-4ccc-8855-ed03454de902,sleepwith.money,available,19.99,,low,low,10,name.com,,,
 ff4105a7-2769-4a27-9ac5-169a0dbc013c,intheflesh.money,available,19.99,,high,low,12,name.com,,,
 ad210fdd-cf90-4a90-8187-5ae94067aabe,dominated.money,available,19.99,50.99,medium,low,9,name.com,,,
@@ -200,9 +200,9 @@ ad2f9b02-7592-4de2-a4c5-f1973e43f599,zooming.money,available,19.99,,high,low,7,n
 127e499d-fb2a-4fec-8c29-3ca2d3402b9b,wheretheheck.money,available,19.99,,low,low,14,name.com,,,
 6d5fb396-7efc-4ad7-9c44-10a5b6ec8638,sickabed.money,available,11.98,38.98,low,low,9,namecheap,,,09/08/2026 07:12
 f7298f5c-561f-4649-a73f-83dd2c9e3a74,occasion.money,available,19.99,,high,low,8,name.com,,,
-23d687a6-213e-4236-8d27-e957a6e26e9c,bronze.money,available,19.99,,medium,low,6,name.com,,,
+23d687a6-213e-4236-8d27-e957a6e26e9c,bronze.money,available,16.99,35.99,low,low,6,namesilo,,,23/09/2026 09:58
 dbedba20-a74d-4952-896d-dc566c1c4804,pinging.money,available,19.99,,high,low,7,name.com,,,
-4c666c2a-10c0-44ee-a117-a340d1b9f0c0,opposite.money,available,19.99,50.99,high,low,8,name.com,,,
+4c666c2a-10c0-44ee-a117-a340d1b9f0c0,opposite.money,available,16.99,35.99,low,low,8,namesilo,,,23/09/2026 22:35
 12b668c0-f745-48cf-adc1-98428be884ee,cutto.money,available,19.99,,medium,low,6,name.com,,,
 92ecf2c9-f10d-4d7b-92e7-0b7eb93b7e2a,agrypnotic.money,available,11.98,38.98,low,low,10,namecheap,,,
 884cb33b-e7c4-4546-817a-541a53f51072,shoeless.money,available,11.98,38.98,low,low,8,namecheap,,,08/08/2026 19:04
@@ -229,7 +229,7 @@ f9176828-8826-4256-a31e-1c26200f8466,turmeric.money,available,16.99,35.99,medium
 edddf498-987e-41c7-90d5-51090f0bb41a,say.money,resell,,,medium,low,3,"GoDaddy.com, LLC",08/07/2025 17:03,08/07/2027 17:03,
 72bbd7cd-e4f0-4656-a2a2-526c48aaf48a,xcviii.money,available,11.98,38.98,low,low,6,namecheap,,,
 c2bde2b3-d906-482b-ab46-9ecfb74160a4,countycourt.money,available,19.99,,medium,low,12,name.com,,,
-42e50ca0-545f-43c8-b8da-fa590a70085a,controlled.money,available,19.99,50.99,medium,low,10,name.com,,,
+42e50ca0-545f-43c8-b8da-fa590a70085a,controlled.money,available,11.98,38.98,low,low,10,namecheap,,,23/09/2026 22:39
 b9d0978f-ff6b-4530-af2e-654cfd434dda,vacuumcleaner.money,available,19.99,,high,low,14,name.com,,,
 c29ef592-c07d-4d43-a76d-bb38942fb8b4,burgerbun.money,available,19.99,,high,low,10,name.com,,,
 b4d43475-6485-4c45-af40-1796c7f16b77,pointofview.money,available,19.99,,low,low,13,name.com,,,
@@ -247,7 +247,7 @@ c990d158-f87f-401e-a410-b45744bd6efd,adlib.money,available,11.98,38.98,low,low,6
 5d549b7e-4e2a-496e-8bb8-499ba564a961,usbdrive.money,available,19.99,,high,low,9,name.com,,,
 f65ec330-8f75-47bb-ab7a-f6cd16e712f6,getwell.money,available,19.99,,high,low,8,name.com,,,
 03d8012e-c024-466d-9e3a-0a77d001008d,thenandnow.money,available,19.99,,low,low,12,name.com,,,
-621868a1-64fb-4c6b-87ca-634faa204fa3,beauty.money,resell,,,high,low,6,"Spaceship, Inc.",25/08/2024 17:07,25/08/2027 17:07,20/09/2026 19:44
+621868a1-64fb-4c6b-87ca-634faa204fa3,beauty.money,resell,,,medium,low,6,"Spaceship, Inc.",25/08/2024 17:07,25/08/2027 17:07,23/09/2026 06:13
 4df89735-9318-47a3-93df-4df88590a272,blueberrypie.money,available,19.99,,medium,low,13,name.com,,,
 ab83715d-1a88-4628-bbd8-2dddfc692beb,asterisked.money,available,11.98,38.98,low,low,10,namecheap,,,07/08/2026 08:47
 508a6925-1da9-49a2-a413-a63d430f825f,wallet.money,available,,,high,medium,6,,,,
@@ -292,7 +292,6 @@ b8271312-bfee-4f13-8349-74df7efeacf2,language.money,resell,,,high,low,8,Dynadot 
 4782b26c-503a-4d56-b514-9bf881d9bf75,quite.money,available,19.99,,high,low,5,name.com,,,
 15b98fdc-3876-4e86-a2c9-1d4156164ea8,payattention.money,available,19.99,,low,low,13,name.com,,,
 9aed424f-1952-43e3-9040-04c5e5086a90,stpetersburgh.money,available,19.99,,medium,low,15,name.com,,,
-db6310e6-c9fe-41c5-8bb2-c2c7e2a7ef2f,nationwide.money,available,,,high,medium,10,,,,
 f914d84f-bbda-4cfe-ade5-cc03172df502,caustic.money,available,11.98,38.98,low,low,7,namecheap,,,
 50fad2b5-7134-431b-89ba-57842aae380c,confide.money,available,19.99,,high,low,7,name.com,,,
 2465d030-6c0d-42b3-a2f9-f13c44dc66c9,vinegary.money,available,11.98,38.98,low,low,8,namecheap,,,
@@ -302,7 +301,7 @@ a3594f2c-8656-467c-a218-52e2f61ce4b1,kilometer.money,available,19.99,,high,low,9
 9a9be0cf-9252-43ed-94e7-d6c5ccae4dc4,setaceous.money,available,11.98,38.98,low,low,9,namecheap,,,08/08/2026 17:44
 2ff3704b-87b6-484c-86d0-c052d12a507d,currently.money,available,19.99,,medium,low,9,name.com,,,
 c6f537d8-a44c-4c91-b8d3-80df21d91907,dating.money,resell,,,high,low,6,Dynadot Inc,22/11/2025 13:20,22/11/2026 13:20,
-4cce0384-59ad-4df6-a7ee-b9448a07654b,crowded.money,available,19.99,50.99,medium,low,7,name.com,,,
+4cce0384-59ad-4df6-a7ee-b9448a07654b,crowded.money,available,16.99,35.99,low,low,7,namesilo,,,24/09/2026 02:10
 9388f5dc-4542-482f-8551-569a5529a455,basilar.money,available,11.98,38.98,low,low,7,namecheap,,,08/08/2026 22:16
 613e401b-bf06-46cb-bfac-ddd4ab61d864,seeing.money,available,19.99,,high,low,6,name.com,,,
 6cc645b4-be11-4b0b-ba75-564824dc35b9,mum.money,available,19.99,,high,low,3,name.com,,,
@@ -314,7 +313,6 @@ c6f537d8-a44c-4c91-b8d3-80df21d91907,dating.money,resell,,,high,low,6,Dynadot In
 fc8c7df3-2a63-4871-9157-c2b97fe244b3,lookupon.money,available,19.99,,high,low,9,name.com,,,
 a257c46f-0441-43e5-bf36-721251597012,detailing.money,available,19.99,,medium,low,9,name.com,,,
 f428bf18-f004-44cc-80a0-372fdee65eb9,unskilled.money,available,11.98,38.98,low,low,9,namecheap,,,
-c631b681-a6af-4669-8b3a-7b2159d16f39,broke.money,available,,,high,high,5,,,,
 0c2e12f8-c6f1-46b7-824a-1bdf4218a477,tertiary.money,available,11.98,38.98,low,low,8,namecheap,,,
 6d9c7c6e-6cc4-4668-a23e-a7d497d19a8a,january.money,available,19.99,,high,low,7,name.com,,,
 c6ffa860-3f93-4cae-90c6-1a3fe2981804,cone.money,available,19.99,,medium,low,4,name.com,,,
@@ -406,7 +404,7 @@ c4162321-7327-4541-ae94-93cc767fbaff,antipodean.money,available,11.98,38.98,low,
 7f146b1c-df3b-4887-afcc-d1cf849a43de,thirtieth.money,available,11.98,38.98,low,low,9,namecheap,,,
 620cb157-bb77-49a8-ac85-739e8876cc9c,codes.money,premium,118.8,118.8,medium,low,5,namesilo,,,
 97741118-0385-4284-a83e-e94314de4262,giveandtake.money,available,19.99,,high,low,13,name.com,,,
-0244eb68-fa5b-452d-a60e-c55d692f894c,scornful.money,available,19.99,50.99,medium,low,8,name.com,,,
+0244eb68-fa5b-452d-a60e-c55d692f894c,scornful.money,available,16.99,35.99,low,low,8,namesilo,,,23/09/2026 21:53
 934ede72-a1ff-462d-9663-775802a7b80c,antheral.money,available,11.98,38.98,low,low,8,namecheap,,,
 06228c1a-f706-4fca-aa0c-e44b6156033f,europe.money,premium,242,242,medium,low,6,namesilo,,,
 9f43b50c-418d-4db9-9e0d-e23f050822bc,aggravated.money,available,11.98,38.98,low,low,10,namecheap,,,
@@ -419,14 +417,14 @@ ddce04b5-15d3-494b-8916-737d2a02ee92,aucourant.money,available,11.98,38.98,low,l
 c2c710b0-17dd-4cf8-9113-b4f23c32d7d1,lying.money,available,19.99,,high,low,5,name.com,,,
 f9ec94f3-fc95-4d4f-8214-e2224f426c1a,verbal.money,available,19.99,,high,low,6,name.com,,,
 0dafd6c6-cfe5-416e-9c7d-cd7209a5969a,recorded.money,available,19.99,,medium,low,8,name.com,,,
-8f3dc51c-2aea-483f-9155-e8c7052e7c40,news.money,resell,,,medium,low,4,"Spaceship, Inc.",22/05/2019 19:37,22/05/2027 19:37,20/09/2026 02:58
+8f3dc51c-2aea-483f-9155-e8c7052e7c40,news.money,resell,,,medium,low,4,"Spaceship, Inc.",22/05/2019 19:37,22/05/2027 19:37,23/09/2026 11:01
 c9b219f2-436d-4ab1-ad1b-ff126f27a93a,leather.money,available,19.99,,medium,low,7,name.com,,,
 ad783a53-f282-48ff-8a89-c2cbaad969a6,dothelaundry.money,available,19.99,,medium,low,14,name.com,,,
 63b7a2ae-1e64-4a4a-a747-f01ad385b072,antifungal.money,available,11.98,38.98,low,low,10,namecheap,,,
 0a3ba510-597d-44b5-8196-bdbba63c0637,avestan.money,available,11.98,38.98,low,low,7,namecheap,,,07/08/2026 23:07
 12e4109d-da03-4bce-82b3-178e4bf0729a,auric.money,available,11.98,38.98,low,low,5,namecheap,,,07/08/2026 17:36
 2249c361-0bc5-45cf-82eb-e45e02b9a745,elsalvador.money,available,,,medium,low,11,,,,
-ad15c272-9bd1-47b0-a5c4-a9b7b0a0dd39,worn.money,available,19.99,,medium,low,4,name.com,,,
+ad15c272-9bd1-47b0-a5c4-a9b7b0a0dd39,worn.money,available,16.99,35.99,low,low,4,namesilo,,,23/09/2026 12:58
 407e1a7f-654d-4260-88d2-040a1248fe69,surfboard.money,available,19.99,,high,low,9,name.com,,,
 8367a3a2-9276-4199-9f2f-e73d41828c9f,astonished.money,available,16.99,35.99,low,low,10,namesilo,,,22/09/2026 03:35
 2243713d-b3a5-417b-92c0-0b654c161c7d,fifth.money,available,11.98,38.98,low,low,5,namecheap,,,
@@ -438,7 +436,7 @@ f5ecf703-298a-46dd-8c3a-0874f89acf3f,buying.money,available,19.99,,high,low,6,na
 2701e9ed-0411-457d-ba93-5d13813b61cc,fallover.money,available,19.99,,medium,low,9,name.com,,,
 23086f51-879f-45f4-87fb-b226b9b991b7,channukah.money,available,19.99,,medium,low,9,name.com,,,
 8ed0be5d-0496-4586-b5fd-e0e7c6b79ac9,spray.money,available,,,high,low,5,,,,
-112d9d51-029f-4ae5-a747-1d388eb8b0e1,convincing.money,available,19.99,50.99,high,low,10,name.com,,,
+112d9d51-029f-4ae5-a747-1d388eb8b0e1,convincing.money,available,16.99,35.99,medium,low,10,namesilo,,,23/09/2026 22:56
 349ce05b-7dd9-4dd1-8c5a-2a522c53a8be,rearmost.money,available,11.98,38.98,low,low,8,namecheap,,,08/08/2026 06:09
 28a61c2f-c340-4a2c-bc8e-18be7c40b2cb,forthat.money,available,19.99,,medium,low,8,name.com,,,
 d65aee07-4033-4d79-bf02-723a0cb750a5,barren.money,available,11.98,38.98,low,low,6,namecheap,,,08/08/2026 20:57
@@ -454,9 +452,10 @@ bd1496af-8048-4be4-b3b9-839257fbaba5,dendriform.money,available,11.98,38.98,low,
 cfa37c6a-dce0-4102-b5ba-4aa844a123b8,jersey.money,available,,,high,low,6,,,,
 c4cb89d5-d870-4057-9809-61c1b6b8d70d,assiduous.money,available,11.98,38.98,low,low,9,namecheap,,,07/08/2026 06:09
 3ed6b748-fa9d-4e6e-83af-ee68ac92337f,noise.money,available,,,high,low,5,,,,
+19e80147-b6cb-42c0-ab11-d28bf978d5a3,casual.money,resell,,,medium,low,6,Dynadot Inc,11/07/2026 17:00,11/07/2027 17:00,23/09/2026 13:14
 8661a3d1-712a-461d-99bb-67bff89711c4,befuddled.money,available,11.98,38.98,low,low,9,namecheap,,,07/08/2026 11:41
 5fcf320b-685a-40aa-98c8-e2f6b7b27b5f,atlarge.money,available,11.98,38.98,low,low,8,namecheap,,,07/08/2026 11:27
-556df99b-0ed0-44cc-b5f6-061f58f68ea6,contained.money,available,19.99,50.99,medium,low,9,name.com,,,
+556df99b-0ed0-44cc-b5f6-061f58f68ea6,contained.money,available,11.98,38.98,low,low,9,namecheap,,,23/09/2026 21:42
 b54874cc-c4b7-4636-84ad-96f4e538ca3c,anticlinal.money,available,11.98,38.98,low,low,10,namecheap,,,
 cf78080a-c017-4dc1-ab74-32c44c65dd15,theirs.money,available,19.99,,low,low,6,name.com,,,
 5fc5bbee-85d1-4473-9136-03ec1812e9c0,abasic.money,available,11.98,38.98,low,low,6,namecheap,,,
@@ -525,7 +524,7 @@ f80759f1-da0c-4e14-8bda-7c3c1accd04d,mouthguard.money,available,19.99,,low,low,1
 15173b68-9380-4d33-8bd3-b753769da234,aldente.money,available,11.98,38.98,low,low,8,namecheap,,,
 fb99a48d-b578-43db-955d-ed23497a2396,protein.money,available,11.98,38.98,medium,low,7,namecheap,,,08/09/2026 08:51
 6917a44f-6450-4e91-82a9-b75b3eb749e8,amerindic.money,available,11.98,38.98,low,low,9,namecheap,,,
-fa5ec006-248f-45d2-b137-b787457010f1,envious.money,available,19.99,50.99,medium,low,7,name.com,,,
+fa5ec006-248f-45d2-b137-b787457010f1,envious.money,available,16.99,35.99,low,low,7,namesilo,,,24/09/2026 01:02
 6a2c2065-517e-4765-a3b3-b6b35603dcfc,adsorbent.money,available,11.98,38.98,low,low,9,namecheap,,,
 f107c569-99ed-40d6-ab70-c863d92918bb,attrited.money,available,11.98,38.98,low,low,8,namecheap,,,07/08/2026 16:02
 b94b6b74-39c8-44a9-a277-fb2f0b7c1456,fervid.money,available,11.98,38.98,low,low,6,namecheap,,,06/08/2026 16:19
@@ -569,7 +568,7 @@ fc700e98-ab90-48b6-8389-7547f3ba9ca6,automotive.money,available,16.99,35.99,medi
 4cbbeb8c-7edd-47e8-a43b-3c0fcf20f37e,heartburn.money,available,19.99,,medium,low,9,name.com,,,
 531c0ccc-3f24-4d45-8c1b-06c06443efe1,alleviated.money,available,11.98,38.98,low,low,10,namecheap,,,
 d229e23e-44f5-4051-9298-83494ca13f64,lateron.money,available,11.98,38.98,low,low,8,namecheap,,,
-0cd04441-d1b8-42b4-9cdb-86905c76a840,near.money,resell,,,medium,low,4,Dynadot Inc,19/07/2025 17:00,19/07/2027 17:00,19/09/2026 12:52
+0cd04441-d1b8-42b4-9cdb-86905c76a840,near.money,resell,,,low,low,4,Dynadot Inc,19/07/2025 17:00,19/07/2027 17:00,23/09/2026 13:54
 89a0e275-5dde-4727-b167-b41c024cbe3a,adnate.money,available,11.98,38.98,low,low,6,namecheap,,,
 951c6dfc-2607-4d7f-bc63-256b6ae86d46,metre.money,available,19.99,,high,low,5,name.com,,,
 f4acba62-52d4-4207-897f-6e434d222c27,nassau.money,available,19.99,,high,low,6,name.com,,,
@@ -584,7 +583,7 @@ bb576d70-2961-481d-8ce7-e3a9f339403e,standardize.money,available,19.99,,high,low
 4fdb9309-6047-4a64-9fdf-1fc6c1f6e5f9,speedlimiter.money,available,19.99,,medium,low,13,name.com,,,
 937fd28f-e832-402a-b5f9-2128a1b43c6a,sorryforoneself.money,available,19.99,,medium,low,17,name.com,,,
 4e94ce30-f73b-4b8a-829f-a85de4a23d48,setanexample.money,available,19.99,,medium,low,14,name.com,,,
-692cd939-48b9-4cbf-877f-dc1e469f9c6c,marketing.money,resell,,,medium,low,9,Dynadot Inc,23/12/2022 15:15,23/12/2026 15:15,19/09/2026 13:53
+692cd939-48b9-4cbf-877f-dc1e469f9c6c,marketing.money,resell,,,medium,low,9,Dynadot Inc,23/12/2022 15:15,23/12/2026 15:15,23/09/2026 16:46
 8a77d9e5-de42-4699-8035-f44115530c6f,muchas.money,available,19.99,,medium,low,7,name.com,,,
 137eb96c-f7ab-4dee-9615-7879e19ab327,fancy.money,resell,,,high,low,5,Dynadot Inc,26/12/2024 12:33,26/12/2026 12:33,20/09/2026 19:44
 294e3763-9152-424f-9173-3b08e5f71f28,inquisitive.money,available,19.99,,medium,low,11,name.com,,,
@@ -690,7 +689,7 @@ ede61093-9d3a-468d-b56f-e9c07983a625,nature.money,resell,,,medium,low,6,"GoDaddy
 aada82fa-d6e8-4b0c-9b1e-e6efa2ce58e1,greatbritain.money,available,19.99,,high,low,13,name.com,,,
 e03fb55e-3383-429d-9033-8fc5afad3a44,havemoneytoburn.money,available,19.99,,medium,low,18,name.com,,,
 c5f8fb78-1dbf-467e-895e-986fc94db862,appreciative.money,available,19.99,,high,low,12,name.com,,,
-57dfc3e2-4e59-4032-b8ad-ea13fe0ca8c5,last.money,resell,,,high,low,4,"NameCheap, Inc.",30/01/2025 15:25,30/01/2027 15:25,
+57dfc3e2-4e59-4032-b8ad-ea13fe0ca8c5,last.money,resell,,,medium,low,4,"NameCheap, Inc.",30/01/2025 15:25,30/01/2027 15:25,23/09/2026 14:48
 3ffd1bb3-d3e9-4294-b940-994890505f49,costarica.money,available,,,high,low,10,,,,
 b38f52b6-c996-4c94-bbdb-cd3b0d5da06f,progressive.money,available,16.99,35.99,medium,low,11,namesilo,,,19/09/2026 14:06
 1cbb257e-b7a3-40bb-aaab-4be974c41c51,passionate.money,available,19.99,,high,low,10,name.com,,,
@@ -716,7 +715,7 @@ a3208cc0-9cf7-4562-8423-559142688e19,oregon.money,premium,118.8,118.8,medium,low
 8a7cdd22-9ecc-4191-b5e1-42bbca964c90,rejected.money,available,19.99,,medium,low,8,name.com,,,
 3c490cf6-832b-4ce9-b174-fda8330c6c95,keepsecret.money,available,19.99,,medium,low,11,name.com,,,
 de44b96c-b692-403b-9f52-04f184d226c1,triplet.money,available,11.98,38.98,low,low,7,namecheap,,,
-e97ae40c-7543-4ab2-bc98-52c3bf7b11c8,comic.money,available,19.99,,high,low,5,name.com,,,
+e97ae40c-7543-4ab2-bc98-52c3bf7b11c8,comic.money,available,11.98,38.98,medium,low,5,namecheap,,,23/09/2026 15:15
 31415209-e2d2-4622-abef-d82855b8b26f,terms.money,available,19.99,,high,low,5,name.com,,,
 bfe3a678-4bd3-4784-ada1-e9d8585c085d,unending.money,available,11.98,38.98,low,low,8,namecheap,,,
 1efbc933-2175-4b55-b334-23e8a2439a82,midday.money,available,19.99,,high,low,6,name.com,,,
@@ -730,7 +729,6 @@ d7712cae-5924-4a54-916f-fa23c2eb0b2d,sep.money,available,19.99,,high,low,3,name.
 f08a5ba1-f608-4205-aaa2-d96d50b060c7,adducent.money,available,11.98,38.98,low,low,8,namecheap,,,
 2785df7f-fede-41ba-963a-9cf05a6a15f7,buzzing.money,available,11.98,38.98,low,low,7,namecheap,,,
 04838826-9c97-48da-9d8f-d5e8a8261e1b,stayloose.money,available,19.99,,low,low,10,name.com,,,
-7160149d-f82b-409f-a317-f785aa7b967a,chill.money,resell,,,high,low,5,"NameCheap, Inc.",27/11/2024 05:04,27/11/2026 05:04,
 37fb3980-1b81-4432-ad89-d077114a69d8,skewwhiff.money,available,11.98,38.98,low,low,10,namecheap,,,07/08/2026 03:51
 a690c8a2-fa69-491e-a099-3113d2132ec6,oddfish.money,available,19.99,,low,low,8,name.com,,,
 e9218837-d630-4eb1-aaf7-7931bf1a6e7d,onetime.money,available,19.99,,medium,low,8,name.com,,,
@@ -744,7 +742,6 @@ c5253b81-123b-4886-ba27-42d558f0e3ad,assess.money,available,19.99,,high,low,6,na
 f76d11cf-d0e4-44cc-8498-6de76bd46f3c,perhaps.money,available,19.99,,high,low,7,name.com,,,
 84e7702b-707e-4169-a357-142e2211490a,promotion.money,available,19.99,,high,low,9,name.com,,,
 360cd8f4-ca1a-46ac-aa78-68a562d78bd4,update.money,available,19.99,,medium,low,7,name.com,,,
-a5411031-2bff-4fb9-b001-62e573541644,nice.money,resell,,,high,medium,4,Dynadot Inc,22/10/2024 17:00,22/10/2026 17:00,
 b1726c0e-b81c-4ce3-846b-053bda2a1059,upset.money,available,19.99,50.99,high,low,5,name.com,,,
 6e25db58-6ba0-492f-9b20-d2b6c352b2c0,modeller.money,available,19.99,,high,low,8,name.com,,,
 0a0b449c-7608-444e-8b8f-0128cd348400,goup.money,available,11.98,38.98,medium,low,5,namecheap,,,03/09/2026 14:22
@@ -774,13 +771,13 @@ cbac0d9f-608d-4ac7-8efe-47b61aeaf749,ofapiece.money,available,19.99,,low,low,10,
 664ad723-c9e7-4a36-9d47-f0e5b61b2390,browser.money,resell,,,high,low,7,Dynadot Inc,10/10/2025 17:00,10/10/2026 17:00,
 8e4cb08f-13d9-420e-9e2c-db799313fd32,drawup.money,available,19.99,,high,low,7,name.com,,,
 295f060f-cdd7-4e88-9304-e7afe4cf42b1,arched.money,available,11.98,38.98,low,low,6,namecheap,,,06/08/2026 14:34
-3b817724-8714-4a92-9f43-993cbaa2d283,countless.money,available,19.99,50.99,high,low,9,name.com,,,
+3b817724-8714-4a92-9f43-993cbaa2d283,countless.money,available,19.99,50.99,medium,low,9,name.com,,,24/09/2026 00:28
 f631b5dc-a2bb-461f-b7f0-53275576fc2d,dispatching.money,available,19.99,,medium,low,11,name.com,,,
 87948a2c-fe18-4925-b0ec-5c9425aeb747,affirmative.money,available,19.99,,high,low,11,name.com,,,
 281073bc-28d8-4023-82ca-2962c34f50a4,verywell.money,available,16.99,35.99,low,low,9,namesilo,,,22/09/2026 01:12
 cbe383a2-4fcd-4da3-975b-a8ef00bd6ce2,listenin.money,available,19.99,,medium,low,9,name.com,,,
 996c6690-8203-474a-8feb-2f2e1e516eae,lookout.money,available,19.99,,high,low,7,name.com,,,
-2ef11293-8aa5-4ac1-ab4a-c436486e5c08,cure.money,resell,,,high,low,4,Dynadot Inc,08/11/2025 17:00,08/11/2026 17:00,
+2ef11293-8aa5-4ac1-ab4a-c436486e5c08,cure.money,resell,,,low,low,4,Dynadot Inc,08/11/2025 17:00,08/11/2026 17:00,24/09/2026 03:52
 3fa4ea29-20eb-4b24-a157-9be357c3c704,blockade.money,available,19.99,,high,low,8,name.com,,,
 a1fa568c-c17e-402e-a58b-b98b6f2e04ab,bearded.money,available,11.98,38.98,low,low,7,namecheap,,,08/08/2026 16:05
 7ab95cf0-ddce-4c83-afba-3e1ef5514255,stvincent.money,available,19.99,,medium,low,11,name.com,,,
@@ -794,7 +791,7 @@ ebe99fd6-1c52-41ad-8d00-555d2231e06e,pricked.money,available,19.99,,low,low,7,na
 4853899f-44b8-4bba-980a-a2e2c33e09eb,sortof.money,available,19.99,,medium,low,7,name.com,,,
 4b54710e-f15b-461a-9e30-9c35df5384f0,ohmygod.money,available,19.99,,high,low,9,name.com,,,
 732fdb21-2d92-40a9-804b-d2f51ca79780,harmony.money,resell,,,high,low,7,"Sav.com, LLC - 18",08/09/2025 15:15,08/09/2026 15:15,
-33c9f825-9a63-4b69-b04e-18442e117f66,concerned.money,available,19.99,50.99,medium,low,9,name.com,,,
+33c9f825-9a63-4b69-b04e-18442e117f66,concerned.money,available,11.98,38.98,low,low,9,namecheap,,,23/09/2026 18:58
 18e9a6df-1230-4b56-8422-aaef0bd9983a,pricetag.money,available,19.99,,medium,low,9,name.com,,,
 89fed9ed-d5a3-463a-8cec-0426c683b8b8,analyzed.money,available,11.98,38.98,low,low,8,namecheap,,,
 6d36a6f6-b522-485f-8520-1ccb190422ff,aboveall.money,available,11.98,38.98,medium,low,9,namecheap,,,13/09/2026 16:35
@@ -941,7 +938,7 @@ dcd5102c-5f00-4a51-8b64-519a46bbaf85,transferableskill.money,available,19.99,,hi
 4b8d77cf-bbd0-4e33-a7e2-c3b910b753ad,howaboutthat.money,available,19.99,,medium,low,14,name.com,,,
 5b13bd9e-32af-4476-bb7e-11d8c3bb05e7,femalealpha.money,available,19.99,,medium,low,12,name.com,,,
 c1274884-8133-4f8e-bff1-529f4f01d6ef,setgoing.money,available,19.99,,low,low,9,name.com,,,
-08b263ae-1af0-49d9-9fcd-c2d19f7fa166,treatment.money,available,19.99,,high,low,9,name.com,,,
+08b263ae-1af0-49d9-9fcd-c2d19f7fa166,treatment.money,available,16.99,35.99,medium,low,9,namesilo,,,23/09/2026 08:47
 242090d9-e636-4044-811c-f5da8dfa7a3a,intime.money,available,19.99,,medium,low,7,name.com,,,
 528b8e92-f5ce-45f5-8715-b6902c33408c,qualitative.money,available,19.99,,high,low,11,name.com,,,
 e48d37c9-c904-4db2-825a-695b8e687ba1,fussy.money,available,11.98,38.98,low,low,5,namecheap,,,08/08/2026 07:47
@@ -949,7 +946,7 @@ fedd0285-063c-4b34-a042-b1c79615167c,reception.money,available,19.99,,high,low,9
 c5e997f6-28b6-4970-a145-95416b199650,toward.money,available,19.99,,medium,low,6,name.com,,,
 167c9994-46e4-426a-ad78-18ae922cef81,con.money,available,19.99,,high,low,3,name.com,,,
 55b67074-0d48-4d26-b646-41a9f8777e20,document.money,available,19.99,,high,low,8,name.com,,,
-80d41dc8-8b52-4fc9-be9e-07e6d66249a5,soandso.money,available,19.99,,medium,low,9,name.com,,,
+80d41dc8-8b52-4fc9-be9e-07e6d66249a5,soandso.money,available,16.99,35.99,low,low,9,namesilo,,,23/09/2026 11:19
 9f7e6bee-aa72-4b4f-978b-c1999deecf2a,bluegreen.money,available,16.99,35.99,medium,low,10,namesilo,,,22/09/2026 22:55
 75e52cdd-991b-41ff-b8dd-4a9324bda7e6,lyrics.money,available,19.99,,high,low,6,name.com,,,
 44ec1f1b-cb24-40ce-b67f-695e8d2cda71,bedofroses.money,available,19.99,,high,low,12,name.com,,,
@@ -999,3 +996,6 @@ ef166dbd-08cb-4cda-9951-4747672dfda3,xxxviii.money,available,11.98,38.98,low,low
 ab1882f4-708a-4780-81d5-05adc8f1a48c,resolvable.money,available,19.99,,high,low,10,name.com,,,
 fa92af58-4a2d-489c-b793-a1c00385094c,apposable.money,available,11.98,38.98,low,low,9,namecheap,,,06/08/2026 07:48
 90f5af36-f2ad-4629-8af2-7692e85b9e45,democracy.money,premium,118.8,118.8,high,low,9,namesilo,,,
+3738e2f3-38f4-4d82-b3ed-10a3d5b91771,soundthealarm.money,available,19.99,,high,low,15,name.com,,,
+c7b0c4a3-f844-44f8-8e19-956307d96ce8,allelic.money,available,11.98,38.98,low,low,7,namecheap,,,
+69ccc0e2-0df1-4cd0-bba4-16c48f512355,electronic.money,resell,,,low,low,10,"Spaceship, Inc.",26/08/2025 15:15,26/08/2027 15:15,19/09/2026 14:31
