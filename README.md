@@ -1,10 +1,10 @@
-# Available .MONEY One-Word Domains (25,223)
+# Available .MONEY One-Word Domains (27,361)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C223%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C361%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .money one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,223 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,361 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,223 domains · **Median ask:** $16.71 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 27,361 domains · **Median ask:** $16.61 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/money`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| che.money       | available | $10.88    | $29.01        | high           | low    | 3      | dynadot          |
-| fabric.money    | resell    | $19.99    | —             | high           | low    | 6      | Dynadot Inc      |
-| som.money       | premium   | $99.50    | —             | high           | low    | 3      | unstoppable      |
-| fdr.money       | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare       |
-| compute.money   | resell    | $19.99    | —             | high           | low    | 7      | Spaceship, Inc.  |
-| rand.money      | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
-| ffa.money       | available | $10.55    | $28.15        | high           | low    | 3      | spaceship        |
-| aca.money       | resell    | —         | —             | high           | low    | 3      | —                |
-| doctor.money    | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo         |
-| gal.money       | available | $10.55    | $28.15        | high           | low    | 3      | spaceship        |
-| bar.money       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| salary.money    | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo         |
-| hem.money       | available | $11.98    | $38.98        | high           | low    | 3      | namecheap        |
-| bat.money       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| search.money    | premium   | $854      | $854          | high           | medium | 6      | namesilo         |
-| ive.money       | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| rei.money       | resell    | —         | —             | high           | low    | 3      | —                |
-| diplomacy.money | premium   | $128.70   | $128.70       | high           | low    | 9      | namecheap        |
-| kim.money       | available | $11.98    | $38.98        | high           | low    | 3      | namecheap        |
-| ten.money       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| che.money       | available | $10.88    | $29.01        | high           | low    | 3      | dynadot         |
+| fabric.money    | resell    | $19.99    | —             | high           | low    | 6      | Dynadot Inc     |
+| som.money       | premium   | $99.50    | —             | high           | low    | 3      | unstoppable     |
+| fdr.money       | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare      |
+| compute.money   | resell    | $19.99    | —             | high           | low    | 7      | Spaceship, Inc. |
+| doctor.money    | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo        |
+| ffa.money       | available | $10.55    | $28.15        | high           | low    | 3      | spaceship       |
+| aca.money       | resell    | —         | —             | high           | low    | 3      | —               |
+| salary.money    | premium   | $102.67   | $102.67       | high           | low    | 6      | spaceship       |
+| fsb.money       | available | $27.20    | $27.20        | high           | low    | 3      | cloudflare      |
+| and.money       | resell    | —         | —             | high           | medium | 3      | —               |
+| search.money    | premium   | $800.50   | $854          | high           | medium | 6      | unstoppable     |
+| gal.money       | available | $10.55    | $28.15        | high           | low    | 3      | spaceship       |
+| bar.money       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc     |
+| campaigns.money | premium   | $108.90   | $108.90       | medium         | low    | 9      | dynadot         |
+| ive.money       | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| bat.money       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc     |
+| diplomacy.money | premium   | $128.70   | $128.70       | high           | low    | 9      | namecheap       |
+| kim.money       | available | $11.98    | $38.98        | high           | low    | 3      | namecheap       |
+| usa.money       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,223 live domains                        |
+| 1,000-row public sample | 27,361 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MONEY One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MONEY One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
